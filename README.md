@@ -11,7 +11,7 @@ For example, given [10, 15, 3, 7] and k of 17, return true since 10 + 7 is 17.
 
 Bonus: Can you do this in one pass?
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_001.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_001.py)
 
 ---
 
@@ -25,7 +25,7 @@ For example, if our input was [1, 2, 3, 4, 5], the expected output would be [120
 
 Follow-up: what if you can't use division?
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_002.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_002.py)
 
 ---
 
@@ -35,7 +35,7 @@ This Ajith daily promble day was asked by Google.
 
 Given the root to a binary tree, implement serialize(root), which serializes the tree into a string, and deserialize(s), which deserializes the string back into the tree.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_003.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_003.py)
 
 ---
 
@@ -49,7 +49,7 @@ For example, the input [3, 4, -1, 1] should give 2. The input [1, 2, 0] should g
 
 You can modify the input array in-place.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_004.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_004.py)
 
 ---
 
@@ -66,7 +66,7 @@ def cons(a, b):
 ```
 Implement car and cdr.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_005.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_005.py)
 
 ---
 
@@ -78,7 +78,7 @@ An XOR linked list is a more memory efficient doubly linked list. Instead of eac
 
 If using a language that has no pointers (such as Python), you can assume you have access to get_pointer and dereference_pointer functions that converts between nodes and memory addresses.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_006.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_006.py)
 
 ---
 
@@ -92,7 +92,7 @@ For example, the message '111' would give 3, since it could be decoded as 'aaa',
 
 You can assume that the messages are decodable. For example, '001' is not allowed.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_007.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_007.py)
 
 ---
 
@@ -116,7 +116,7 @@ For example, the following tree has 5 unival subtrees:
  1   1
 ```
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_008.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_008.py)
 
 ---
 
@@ -128,7 +128,7 @@ Given a list of integers, write a function that returns the largest sum of non-a
 
 For example, [2, 4, 6, 8] should return 12, since we pick 4 and 8. [5, 1, 1, 5] should return 10, since we pick 5 and 5.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_009.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_009.py)
 
 ---
 
@@ -138,7 +138,7 @@ This Ajith daily promble day was asked by Apple.
 
 Implement a job scheduler which takes in a function f and an integer n, and calls f after n milliseconds.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_010.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_010.py)
 
 ---
 
@@ -152,7 +152,7 @@ For example, given the query string de and the set of strings [dog, deer, deal],
 
 Hint: Try preprocessing the dictionary into a more efficient data structure to speed up queries.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_011.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_011.py)
 
 ---
 
@@ -174,7 +174,7 @@ For example, if N is 4, then there are 5 unique ways:
 
 What if, instead of being able to climb 1 or 2 steps at a time, you could climb any number from a set of positive integers X? For example, if X = {1, 3, 5}, you could climb 1, 3, or 5 steps at a time.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_012.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_012.py)
 
 ---
 
@@ -186,7 +186,7 @@ Given an integer k and a string s, find the length of the longest substring that
 
 For example, given s = "abcba" and k = 2, the longest substring with k distinct characters is "bcb".
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_013.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_013.py)
 
 ---
 
@@ -198,7 +198,7 @@ The area of a circle is defined as r^2. Estimate \pi to 3 decimal places using a
 
 Hint: The basic equation of a circle is x^2 + y^2 = r^2.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_014.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_014.py)
 
 ---
 
@@ -208,7 +208,7 @@ This Ajith daily promble day was asked by Facebook.
 
 Given a stream of elements too large to store in memory, pick a random element from the stream with uniform probability.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_015.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_015.py)
 
 ---
 
@@ -222,7 +222,7 @@ record(order_id): adds the order_id to the log
 get_last(i): gets the ith last element from the log. i is guaranteed to be smaller than or equal to N.
 You should be as efficient with time and space as possible.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_016.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_016.py)
 
 ---
 
@@ -261,7 +261,7 @@ We are interested in finding the longest (number of characters) absolute path to
 
 Given a string representing the file system in the above format, return the length of the longest absolute path to a file in the abstracted file system. If there is no file in the system, return 0.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_017.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_017.py)
 
 ---
 
@@ -282,7 +282,7 @@ For example, given array = [10, 5, 2, 7, 8, 7] and k = 3, we should get: [10, 7,
 
 Do this in O(n) time and O(k) space. You can modify the input array in-place and you do not need to store the results. You can simply print them out as you compute them.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_018.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_018.py)
 
 ---
 
@@ -294,7 +294,7 @@ A builder is looking to build a row of N houses that can be of K different color
 
 Given an N by K matrix where the nth row and kth column represents the cost to build the nth house with kth color, return the minimum cost which achieves this goal.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_019.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_019.py)
 
 ---
 
@@ -310,7 +310,7 @@ In this example, assume nodes with the same value are the exact same node object
 
 Do this in O(M + N) time (where M and N are the lengths of the lists) and constant space.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_020.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_020.py)
 
 ---
 
@@ -322,7 +322,7 @@ Given an array of time intervals (start, end) for classroom lectures (possibly o
 
 For example, given [(30, 75), (0, 50), (60, 150)], you should return 2.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_021.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_021.py)
 
 ---
 
@@ -336,7 +336,7 @@ For example, given the set of words 'quick', 'brown', 'the', 'fox', and the stri
 
 Given the set of words 'bed', 'bath', 'bedbath', 'and', 'beyond', and the string "bedbathandbeyond", return either ['bed', 'bath', 'and', 'beyond] or ['bedbath', 'and', 'beyond'].
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_022.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_022.py)
 
 ---
 
@@ -359,7 +359,7 @@ For example, given the following board:
 
 and start = (3, 0) (bottom left) and end = (0, 0) (top left), the minimum number of steps required to reach the end is 7, since we would need to go through (1, 2) because there is a wall everywhere else on the second row.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_023.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_023.py)
 
 ---
 
@@ -376,7 +376,7 @@ lock, which attempts to lock the node. If it cannot be locked, then it should re
 unlock, which unlocks the node. If it cannot be unlocked, then it should return false. Otherwise, it should unlock it and return true.
 You may augment the node to add parent pointers or any other property you would like. You may assume the class is used in a single-threaded program, so there is no need for actual locks or mutexes. Each method should run in O(h), where h is the height of the tree.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_024.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_024.py)
 
 ---
 
@@ -394,7 +394,7 @@ For example, given the regular expression "ra." and the string "ray", your funct
 
 Given the regular expression `".*at"` and the string "chat", your function should return true. The same regular expression on the string "chats" should return false.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_025.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_025.py)
 
 ---
 
@@ -408,7 +408,7 @@ The list is very long, so making more than one pass is prohibitively expensive.
 
 Do this in constant space and in one pass.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_026.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_026.py)
 
 ---
 
@@ -422,7 +422,7 @@ For example, given the string "([])[]({})", you should return true.
 
 Given the string "([)]" or "((()", you should return false.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_027.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_027.py)
 
 ---
 
@@ -444,7 +444,7 @@ For example, given the list of words ["the", "quick", "brown", "fox", "jumps", "
 "fox  jumps  over", # 2 extra spaces distributed evenly
 "the   lazy   dog"] # 4 extra spaces distributed evenly
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_028.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_028.py)
 
 ---
 
@@ -457,7 +457,7 @@ Run-length encoding is a fast and simple method of encoding strings. The basic i
 
 Implement run-length encoding and decoding. You can assume the string to be encoded have no digits and consists solely of alphabetic characters. You can assume the string to be decoded is valid.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_029.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_029.py)
 
 ---
 
@@ -471,7 +471,7 @@ For example, given the input [2, 1, 2], we can hold 1 unit of water in the middl
 
 Given the input [3, 0, 1, 3, 0, 5], we can hold 3 units in the first index, 2 in the second, and 3 in the fourth index (we cannot hold 5 since it would run off to the left), so we can trap 8 units of water.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_030.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_030.py)
 
 ---
 
@@ -483,7 +483,7 @@ The edit distance between two strings refers to the minimum number of character 
 
 Given two strings, compute the edit distance between them.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_031.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_031.py)
 
 ---
 
@@ -495,7 +495,7 @@ Suppose you are given a table of currency exchange rates, represented as a 2D ar
 
 There are no transaction costs and you can trade fractional quantities.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_032.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_032.py)
 
 ---
 
@@ -519,7 +519,7 @@ For example, given the sequence [2, 1, 5, 7, 2, 0, 5], your algorithm should pri
 2
 ```
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_033.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_033.py)
 
 ---
 
@@ -533,7 +533,7 @@ For example, given the string "race", you should return "ecarace", since we can 
 
 As another example, given the string "google", you should return "elgoogle".
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_034.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_034.py)
 
 ---
 
@@ -547,7 +547,7 @@ Do this in linear time and in-place.
 
 For example, given the array ['G', 'B', 'R', 'R', 'B', 'R', 'G'], it should become ['R', 'R', 'R', 'G', 'G', 'B', 'B'].
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_035.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_035.py)
 
 ---
 
@@ -557,7 +557,7 @@ This Ajith daily promble day was asked by Dropbox.
 
 Given the root to a binary search tree, find the second largest node in the tree.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_036.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_036.py)
 
 ---
 
@@ -571,7 +571,7 @@ For example, given the set {1, 2, 3}, it should return {{}, {1}, {2}, {3}, {1, 2
 
 You may also use a list or array to represent a set.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_037.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_037.py)
 
 ---
 
@@ -581,7 +581,7 @@ This Ajith daily promble day was asked by Microsoft.
 
 You have an N by N board. Write a function that, given N, returns the number of possible arrangements of the board where N queens can be placed on the board without threatening each other, i.e. no two queens share the same row, column, or diagonal.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_038.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_038.py)
 
 ---
 
@@ -601,7 +601,7 @@ Implement Conway's Game of Life. It should be able to be initialized with a star
 
 You can represent a live cell with an asterisk `*` and a dead cell with a dot `.`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_039.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_039.py)
 
 ---
 
@@ -615,7 +615,7 @@ For example, given `[6, 1, 3, 3, 3, 6, 6]`, return `1`. Given `[13, 19, 13, 13]`
 
 Do this in $O(N)$ time and $O(1)$ space.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_040.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_040.py)
 
 ---
 
@@ -631,7 +631,7 @@ Given the list of flights [('SFO', 'COM'), ('COM', 'YYZ')] and starting airport 
 
 Given the list of flights [('A', 'B'), ('A', 'C'), ('B', 'C'), ('C', 'A')] and starting airport 'A', you should return the list ['A', 'B', 'C', 'A', 'C'] even though ['A', 'C', 'A', 'B', 'C'] is also a valid itinerary. However, the first one is lexicographically smaller.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_041.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_041.py)
 
 ---
 
@@ -645,7 +645,7 @@ Integers can appear more than once in the list. You may assume all numbers in th
 
 For example, given `S = [12, 1, 61, 5, 9, 2]` and `k = 24`, return [12, 9, 2, 1] since it sums up to 24.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_042.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_042.py)
 
 ---
 
@@ -661,7 +661,7 @@ Implement a stack that has the following methods:
 
 Each method should run in constant time.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_043.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_043.py)
 
 ---
 
@@ -677,7 +677,7 @@ You may assume each element in the array is distinct.
 
 For example, a sorted list has zero inversions. The array [2, 4, 1, 3, 5] has three inversions: (2, 1), (4, 1), and (4, 3). The array [5, 4, 3, 2, 1] has ten inversions: every distinct pair forms an inversion.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_044.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_044.py)
 
 ---
 
@@ -687,7 +687,7 @@ This Ajith daily promble day was asked by Two Sigma.
 
 Using a function rand5() that returns an integer from 1 to 5 (inclusive) with uniform probability, implement a function rand7() that returns an integer from 1 to 7 (inclusive).
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_045.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_045.py)
 
 ---
 
@@ -699,7 +699,7 @@ Given a string, find the longest palindromic contiguous substring. If there are 
 
 For example, the longest palindromic substring of "aabcdcb" is "bcdcb". The longest palindromic substring of "bananas" is "anana".
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_046.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_046.py)
 
 ---
 
@@ -711,7 +711,7 @@ Given a array of numbers representing the stock prices of a company in chronolog
 
 For example, given [9, 11, 8, 5, 7, 10], you should return 5, since you could buy the stock at 5 dollars and sell it at 10 dollars.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_047.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_047.py)
 
 ---
 
@@ -743,7 +743,7 @@ You should return the following tree:
 d  e f  g
 ```
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_048.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_048.py)
 
 ---
 
@@ -759,7 +759,7 @@ Given the array [-5, -1, -8, -9], the maximum sum would be 0, since we would not
 
 Do this in O(N) time.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_049.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_049.py)
 
 ---
 
@@ -783,7 +783,7 @@ For example, given the following tree:
 
 You should return 45, as it is (3 + 2) * (4 + 5).
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_050.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_050.py)
 
 ---
 
@@ -797,7 +797,7 @@ It should run in O(N) time.
 
 Hint: Make sure each one of the 52! permutations of the deck is equally likely.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_051.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_051.py)
 
 ---
 
@@ -811,7 +811,7 @@ set(key, value): sets key to value. If there are already n items in the cache an
 get(key): gets the value at key. If no such key exists, return null.
 Each operation should run in O(1) time.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_052.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_052.py)
 
 ---
 
@@ -821,7 +821,7 @@ This Ajith daily promble day was asked by Apple.
 
 Implement a queue using two stacks. Recall that a queue is a FIFO (first-in, first-out) data structure with the following methods: enqueue, which inserts an element into the queue, and dequeue, which removes it.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_053.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_053.py)
 
 ---
 
@@ -833,7 +833,7 @@ Sudoku is a puzzle where you're given a partially-filled 9 by 9 grid with digits
 
 Implement an efficient sudoku solver.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_054.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_054.py)
 
 ---
 
@@ -848,7 +848,7 @@ Implement a URL shortener with the following methods:
 
 Hint: What if we enter the same URL twice?
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_055.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_055.py)
 
 ---
 
@@ -858,7 +858,7 @@ This Ajith daily promble day was asked by Google.
 
 Given an undirected graph represented as an adjacency matrix and an integer k, write a function to determine whether each vertex in the graph can be colored such that no two adjacent vertices share the same color using at most k colors.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_056.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_056.py)
 
 ---
 
@@ -872,7 +872,7 @@ You can assume that there are no spaces at the ends of the string and that there
 
 For example, given the string "the quick brown fox jumps over the lazy dog" and k = 10, you should return: ["the quick", "brown fox", "jumps over", "the lazy", "dog"]. No string in the list has a length of more than 10.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_057.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_057.py)
 
 ---
 
@@ -888,7 +888,7 @@ For example, given the array [13, 18, 25, 2, 8, 10] and the element 8, return 4 
 
 You can assume all the integers in the array are unique.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_058.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_058.py)
 
 ---
 
@@ -898,7 +898,7 @@ This Ajith daily promble day was asked by Google.
 
 Implement a file syncing algorithm for two computers over a low-bandwidth network. What if we know the files in the two computers are mostly the same?
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_059.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_059.py)
 
 ---
 
@@ -912,7 +912,7 @@ For example, given the multiset {15, 5, 20, 10, 35, 15, 10}, it would return tru
 
 Given the multiset {15, 5, 20, 10, 35}, it would return false, since we can't split it up into two subsets that add up to the same sum.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_060.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_060.py)
 
 ---
 
@@ -926,7 +926,7 @@ Do this faster than the naive method of repeated multiplication.
 
 For example, pow(2, 10) should return 1024.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_061.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_061.py)
 
 ---
 
@@ -942,7 +942,7 @@ For example, given a 2 by 2 matrix, you should return 2, since there are two way
 
 Given a 5 by 5 matrix, there are 70 ways to get to the bottom-right.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_062.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_062.py)
 
 ---
 
@@ -963,7 +963,7 @@ For example, given the following matrix:
 
 and the target word 'FOAM', you should return true, since it's the leftmost column. Similarly, given the target word 'MASS', you should return true, since it's the last row.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_063.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_063.py)
 
 ---
 
@@ -975,7 +975,7 @@ A knight's tour is a sequence of moves by a knight on a chessboard such that all
 
 Given N, write a function to return the number of knight's tours on an N by N chessboard.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_064.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_064.py)
 
 ---
 
@@ -999,7 +999,7 @@ You should print out the following:
 1, 2, 3, 4, 5, 10, 15, 20, 19, 18, 17, 16, 11, 6, 7, 8, 9, 14, 13, 12
 ```
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_065.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_065.py)
 
 ---
 
@@ -1011,7 +1011,7 @@ Assume you have access to a function toss_biased() which returns 0 or 1 with a p
 
 Write a function to simulate an unbiased coin toss.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_066.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_066.py)
 
 ---
 
@@ -1026,7 +1026,7 @@ Implement an LFU (Least Frequently Used) cache. It should be able to be initiali
 
 Each operation should run in O(1) time.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_067.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_067.py)
 
 ---
 
@@ -1058,7 +1058,7 @@ The board would look like this:
 
 You should return 2, since bishops 1 and 3 attack each other, as well as bishops 3 and 4.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_068.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_068.py)
 
 ---
 
@@ -1072,7 +1072,7 @@ For example, if the list is [-10, -10, 5, 2], we should return 500, since that's
 
 You can assume the list has at least three integers.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_069.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_069.py)
 
 ---
 
@@ -1084,7 +1084,7 @@ Given a positive integer n, return the n-th perfect number.
 
 For example, given 1, you should return 19. Given 2, you should return 28.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_070.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_070.py)
 
 ---
 
@@ -1096,7 +1096,7 @@ Using a function rand7() that returns an integer from 1 to 7 (inclusive) with un
 
 (repeated question - Ajith daily promble day 45)
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_071.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_071.py)
 
 ---
 
@@ -1130,7 +1130,7 @@ A
 
 Should return null, since we have an infinite loop.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_072.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_072.py)
 
 ---
 
@@ -1140,7 +1140,7 @@ This Ajith daily promble day was asked by Google.
 
 Given the head of a singly linked list, reverse it in-place.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_073.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_073.py)
 
 ---
 
@@ -1165,7 +1165,7 @@ For example, given N = 6 and X = 12, you should return 4, since the multiplicati
 
 And there are 4 12's in the table.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_074.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_074.py)
 
 ---
 
@@ -1177,7 +1177,7 @@ Given an array of numbers, find the length of the longest increasing subsequence
 
 For example, given the array `[0, 8, 4, 12, 2, 10, 6, 14, 1, 9, 5, 13, 3, 11, 7, 15]`, the longest increasing subsequence has length 6: it is `0, 2, 6, 9, 11, 15`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_075.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_075.py)
 
 ---
 
@@ -1223,7 +1223,7 @@ tsr
 
 Your function should return 3, since we would need to remove all the columns to order it.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_076.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_076.py)
 
 ---
 
@@ -1237,7 +1237,7 @@ The input list is not necessarily ordered in any way.
 
 For example, given `[(1, 3), (5, 8), (4, 10), (20, 25)]`, you should return `[(1, 3), (4, 10), (20, 25)]`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_077.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_077.py)
 
 ---
 
@@ -1247,7 +1247,7 @@ This Ajith daily promble day was asked recently by Google.
 
 Given k sorted singly linked lists, write a function to merge all the lists into one sorted singly linked list.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_078.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_078.py)
 
 ---
 
@@ -1261,7 +1261,7 @@ For example, given the array `[10, 5, 7]`, you should return true, since we can 
 
 Given the array `[10, 5, 1]`, you should return false, since we can't modify any one element to get a non-decreasing array.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_079.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_079.py)
 
 ---
 
@@ -1279,7 +1279,7 @@ Given the root of a binary tree, return a deepest node. For example, in the foll
 d
 ```
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_080.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_080.py)
 
 ---
 
@@ -1291,7 +1291,7 @@ Given a mapping of digits to letters (as in a phone number), and a digit string,
 
 For example if `{'2': ['a', 'b', 'c'], '3': ['d', 'e', 'f'], }` then `"23"` should return `['ad', 'ae', 'af', 'bd', 'be', 'bf', 'cd', 'ce', 'cf']`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_081.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_081.py)
 
 ---
 
@@ -1303,7 +1303,7 @@ Using a read7() method that returns 7 characters from a file, implement readN(n)
 
 For example, given a file with the content "Hello world", three read7() returns "Hello w", "orld" and then "".
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_082.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_082.py)
 
 ---
 
@@ -1331,7 +1331,7 @@ should become:
   f e  d
 ```
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_083.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_083.py)
 
 ---
 
@@ -1352,7 +1352,7 @@ For example, this matrix has 4 islands.
 1 1 0 0 1
 ```
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_084.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_084.py)
 
 ---
 
@@ -1362,7 +1362,7 @@ This Ajith daily promble day was asked by Facebook.
 
 Given three 32-bit integers x, y, and b, return x if b is 1 and y if b is 0, using only mathematical or bit operations. You can assume b can only be 1 or 0.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_085.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_085.py)
 
 ---
 
@@ -1374,7 +1374,7 @@ Given a string of parentheses, write a function to compute the minimum number of
 
 For example, given the string "()())()", you should return 1. Given the string ")(", you should return 2, since we must remove all of them.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_086.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_086.py)
 
 ---
 
@@ -1407,7 +1407,7 @@ A N B
 
 is considered valid.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_087.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_087.py)
 
 ---
 
@@ -1417,7 +1417,7 @@ This question was asked by ContextLogic.
 
 Implement division of two positive integers without using the division, multiplication, or modulus operators. Return the quotient as an integer, ignoring the remainder.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_088.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_088.py)
 
 ---
 
@@ -1429,7 +1429,7 @@ Determine whether a tree is a valid binary search tree.
 
 A binary search tree is a tree with two children, left and right, and satisfies the constraint that the key in the left child must be less than or equal to the root and the key in the right child must be greater than or equal to the root.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_089.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_089.py)
 
 ---
 
@@ -1439,7 +1439,7 @@ This question was asked by Google.
 
 Given an integer n and a list of integers l, write a function that randomly generates a number from 0 to n-1 that isn't in l (uniform).
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_090.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_090.py)
 
 ---
 
@@ -1458,7 +1458,7 @@ for f in functions:
     print(f())
 ```
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_091.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_091.py)
 
 ---
 
@@ -1472,7 +1472,7 @@ Return null if there is no such ordering.
 
 For example, given `{'CSC300': ['CSC100', 'CSC200'], 'CSC200': ['CSC100'], 'CSC100': []}`, should return `['CSC100', 'CSC200', 'CSCS300']`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_092.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_092.py)
 
 ---
 
@@ -1484,7 +1484,7 @@ Given a tree, find the largest tree/subtree that is a BST.
 
 Given a tree, return the size of the largest tree/subtree that is a BST.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_093.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_093.py)
 
 ---
 
@@ -1494,7 +1494,7 @@ This Ajith daily promble day was asked by Google.
 
 Given a binary tree of integers, find the maximum path sum between two nodes. The path must go through at least one node, and does not need to go through the root.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_094.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_094.py)
 
 ---
 
@@ -1508,7 +1508,7 @@ For example, the list `[1,2,3]` should return `[1,3,2]`. The list `[1,3,2]` shou
 
 Can you perform the operation without allocating extra memory (disregarding the input memory)?
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_095.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_095.py)
 
 ---
 
@@ -1520,7 +1520,7 @@ Given a number in the form of a list of digits, return all possible permutations
 
 For example, given `[1,2,3]`, return `[[1,2,3],[1,3,2],[2,1,3],[2,3,1],[3,1,2],[3,2,1]]`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_096.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_096.py)
 
 ---
 
@@ -1555,7 +1555,7 @@ d.set(1, 2, 0) # set key 1 to value 2 at time 0
 d.get(1, 0) # get key 1 at time 0 should be 2
 ```
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_097.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_097.py)
 
 ---
 
@@ -1577,7 +1577,7 @@ For example, given the following board:
 ```
 `exists(board, "ABCCED")` returns true, `exists(board, "SEE")` returns true, `exists(board, "ABCB")` returns false.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_098.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_098.py)
 
 ---
 
@@ -1591,7 +1591,7 @@ For example, given [100, 4, 200, 1, 3, 2], the longest consecutive element seque
 
 Your algorithm should run in O(n) complexity.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_099.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_099.py)
 
 ---
 
@@ -1620,7 +1620,7 @@ Input: `[(0, 0), (1, 1), (1, 2)]`
 Output: 2
 It takes 1 step to move from (0, 0) to (1, 1). It takes one more step to move from (1, 1) to (1, 2).
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_100.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_100.py)
 
 ---
 
@@ -1645,7 +1645,7 @@ If `[a, b]` is one solution with `a <= b`, and `[c, d]` is another solution with
 if a < c or a==c and b < d.
 ```
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_101.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_101.py)
 
 ---
 
@@ -1657,7 +1657,7 @@ Given a list of integers and a number K, return which contiguous elements of the
 
 For example, if the list is [1, 2, 3, 4, 5] and K is 9, then it should return [2, 3, 4].
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_102.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_102.py)
 
 ---
 
@@ -1671,7 +1671,7 @@ For example, given the string "figehaeci" and the set of characters {a, e, i}, y
 
 If there is no substring containing all the characters in the set, return null.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_103.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_103.py)
 
 ---
 
@@ -1683,7 +1683,7 @@ Determine whether a doubly linked list is a palindrome. What if it’s singly li
 
 For example, `1 -> 4 -> 3 -> 4 -> 1` returns true while `1 -> 4` returns false.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_104.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_104.py)
 
 ---
 
@@ -1695,7 +1695,7 @@ Given a function f, and N return a debounced f of N milliseconds.
 
 That is, as long as the debounced f continues to be invoked, f itself will not be called for N milliseconds.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_105.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_105.py)
 
 ---
 
@@ -1707,7 +1707,7 @@ Given an integer list where each number represents the number of hops you can ma
 
 For example, `[2, 0, 1, 0]` returns `true` while `[1, 1, 0, 1]` returns `false`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_106.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_106.py)
 
 ---
 
@@ -1725,7 +1725,7 @@ Print the nodes in a binary tree level-wise. For example, the following should p
   4   5
 ```
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_107.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_107.py)
 
 ---
 
@@ -1737,7 +1737,7 @@ Given two strings A and B, return whether or not A can be shifted some number of
 
 For example, if A is `abcde` and B is `cdeab`, return true. If A is `abc` and B is `acb`, return false.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_108.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_108.py)
 
 ---
 
@@ -1751,7 +1751,7 @@ For example, `10101010` should be `01010101`. `11100010` should be `11010001`.
 
 Bonus: Can you do this in one line?
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_109.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_109.py)
 
 ---
 
@@ -1773,7 +1773,7 @@ For example, given the tree
 
 it should return `[[1, 2], [1, 3, 4], [1, 3, 5]]`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_110.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_110.py)
 
 ---
 
@@ -1785,7 +1785,7 @@ Given a word W and a string S, find all starting indices in S which are anagrams
 
 For example, given that W is "ab", and S is "abxaba", return 0, 3, and 4.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_111.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_111.py)
 
 ---
 
@@ -1797,7 +1797,7 @@ Given a binary tree, find the lowest common ancestor (LCA) of two given nodes in
 
 According to the definition of LCA on Wikipedia: "The lowest common ancestor is defined between two nodes v and w as the lowest node in T that has both v and w as descendants (where we allow a node to be a descendant of itself)."
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_112.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_112.py)
 
 ---
 
@@ -1809,7 +1809,7 @@ Given a string of words delimited by spaces, reverse the words in string. For ex
 
 Follow-up: given a mutable string representation, can you perform this operation in-place?
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_113.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_113.py)
 
 ---
 
@@ -1821,7 +1821,7 @@ Given a string and a set of delimiters, reverse the words in the string while ma
 
 Follow-up: Does your solution work for the following cases: "hello/world:here/", "hello//world:here"
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_114.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_114.py)
 
 ---
 
@@ -1831,7 +1831,7 @@ This Ajith daily promble day was asked by Google.
 
 Given two non-empty binary trees s and t, check whether tree t has exactly the same structure and node values with a subtree of s. A subtree of s is a tree consists of a node in s and all of this node's descendants. The tree s could also be considered as a subtree of itself.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_115.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_115.py)
 
 ---
 
@@ -1843,7 +1843,7 @@ Generate a finite, but an arbitrarily large binary tree quickly in `O(1)`.
 
 That is, `generate()` should return a tree whose size is unbounded but finite.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_116.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_116.py)
 
 ---
 
@@ -1853,7 +1853,7 @@ This Ajith daily promble day was asked by Facebook.
 
 Given a binary tree, return the level of the tree with minimum sum.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_117.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_117.py)
 
 ---
 
@@ -1865,7 +1865,7 @@ Given a sorted list of integers, square the elements and give the output in sort
 
 For example, given `[-9, -2, 0, 2, 3]`, return `[0, 4, 4, 9, 81]`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_118.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_118.py)
 
 ---
 
@@ -1877,7 +1877,7 @@ Given a set of closed intervals, find the smallest set of numbers that covers al
 
 For example, given the intervals `[0, 3], [2, 6], [3, 4], [6, 9]`, one set of numbers that covers all these intervals is `{3, 6}`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_119.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_119.py)
 
 ---
 
@@ -1887,7 +1887,7 @@ This Ajith daily promble day was asked by Microsoft.
 
 Implement the singleton pattern with a twist. First, instead of storing one instance, store two instances. And in every even call of getInstance(), return the first instance and in every odd call of getInstance(), return the second instance.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_120.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_120.py)
 
 ---
 
@@ -1899,7 +1899,7 @@ Given a string which we can delete at most k, return whether you can make a pali
 
 For example, given 'waterrfetawx' and a k of 2, you could delete f and x to get 'waterretaw'.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_121.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_121.py)
 
 ---
 
@@ -1918,7 +1918,7 @@ For example, in this matrix
 
 The most we can collect is `0 + 2 + 1 + 5 + 3 + 1 = 12` coins.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_122.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_122.py)
 
 ---
 
@@ -1939,7 +1939,7 @@ And here are examples of non-numbers:
 * "a -2"
 * "-"
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_123.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_123.py)
 
 ---
 
@@ -1951,7 +1951,7 @@ You have 100 fair coins and you flip them all at the same time. Any that come up
 
 Write a function that, given $n$, returns the number of rounds you'd expect to play until one coin remains.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_124.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_124.py)
 
 ---
 
@@ -1973,7 +1973,7 @@ For example, given the following tree and K of 20
 
 Return the nodes 5 and 15.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_125.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_125.py)
 
 ---
 
@@ -1983,7 +1983,7 @@ This Ajith daily promble day was asked by Facebook.
 
 Write a function that rotates a list by k elements. For example, `[1, 2, 3, 4, 5, 6]` rotated by two becomes `[3, 4, 5, 6, 1, 2]`. Try solving this without creating a copy of the list. How many swap or move operations do you need?
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_126.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_126.py)
 
 ---
 
@@ -2008,7 +2008,7 @@ return `124 (99 + 25)` as:
 
 `4 -> 2 -> 1`
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_127.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_127.py)
 
 ---
 
@@ -2035,7 +2035,7 @@ For example, with n = 3, we can do this in 7 moves:
 * Move 2 to 3
 * Move 1 to 3
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_128.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_128.py)
 
 ---
 
@@ -2043,7 +2043,7 @@ For example, with n = 3, we can do this in 7 moves:
 
 Given a real number n, find the square root of n. For example, given n = 9, return 3.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_129.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_129.py)
 
 ---
 
@@ -2055,7 +2055,7 @@ Given an array of numbers representing the stock prices of a company in chronolo
 
 For example, given `k = 2` and the array `[5, 2, 4, 0, 1]`, you should return `3`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_130.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_130.py)
 
 ---
 
@@ -2065,7 +2065,7 @@ This question was asked by Snapchat.
 
 Given the head to a singly linked list, where each node also has a 'random' pointer that points to anywhere in the linked list, deep clone the list.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_131.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_131.py)
 
 ---
 
@@ -2080,7 +2080,7 @@ Design and implement a HitCounter class that keeps track of requests (or hits). 
 
 Follow-up: What if our system has limited memory?
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_132.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_132.py)
 
 ---
 
@@ -2102,7 +2102,7 @@ For example, the inorder successor of 22 is 30.
 ```
 You can assume each node has a parent pointer.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_133.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_133.py)
 
 ---
 
@@ -2117,7 +2117,7 @@ Use a more space-efficient data structure, SparseArray, that implements the same
 * `set(i, val)`: updates index at i with val.
 * `get(i)`: gets the value at index i.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_134.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_134.py)
 
 ---
 
@@ -2139,7 +2139,7 @@ For example, the minimum path in this tree is `[10, 5, 1, -1]`, which has sum 15
      -1
 ```
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_135.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_135.py)
 
 ---
 
@@ -2160,7 +2160,7 @@ For example, given the following matrix:
 
 Return 4.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_136.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_136.py)
 
 ---
 
@@ -2175,7 +2175,7 @@ A bit array is a space efficient array that holds a value of 1 or 0 at each inde
 * set(i, val): updates index at i with val where val is either 1 or 0.
 * get(i): gets the value at index i.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_137.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_137.py)
 
 ---
 
@@ -2189,7 +2189,7 @@ You can use standard American denominations, that is, 1¢, 5¢, 10¢, and 25¢.
 
 For example, given n = 16, return 3 since we can make it with a 10¢, a 5¢, and a 1¢.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_138.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_138.py)
 
 ---
 
@@ -2216,7 +2216,7 @@ class PeekableInterface(object):
         pass
 ```
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_139.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_139.py)
 
 ---
 
@@ -2230,7 +2230,7 @@ For example, given the array `[2, 4, 6, 8, 10, 2, 6, 10]`, return 4 and 8. The o
 
 Follow-up: Can you do this in linear time and constant space?
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_140.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_140.py)
 
 ---
 
@@ -2252,7 +2252,7 @@ class Stack:
         pass
 ```
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_141.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_141.py)
 
 ---
 
@@ -2265,7 +2265,7 @@ You're given a string consisting solely of `(`, `)`, and `*`.
 
 For example, `(()*` and `(*)` are balanced. `)*(` is not balanced.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_142.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_142.py)
 
 ---
 
@@ -2281,7 +2281,7 @@ Ordering within a part can be arbitrary.
 
 For example, given `x = 10` and `lst = [9, 12, 3, 5, 14, 10, 10]`, one partition may be `[9, 3, 5, 10, 10, 12, 14]`
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_143.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_143.py)
 
 ---
 
@@ -2297,7 +2297,7 @@ If two distances to larger numbers are equal, then return any one of them. If th
 
 Follow-up: If you can preprocess the array, can you do this in constant time?
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_144.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_144.py)
 
 ---
 
@@ -2309,7 +2309,7 @@ Given the head of a singly linked list, swap every two nodes and return its head
 
 For example, given `1 -> 2 -> 3 -> 4`, return `2 -> 1 -> 4 -> 3`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_145.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_145.py)
 
 ---
 
@@ -2341,7 +2341,7 @@ should be pruned to:
 
 We do not remove the tree at the root or its left child because it still has a 1 as a descendant.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_146.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_146.py)
 
 ---
 
@@ -2349,7 +2349,7 @@ We do not remove the tree at the root or its left child because it still has a 1
 
 Given a list, sort it using this method: `reverse(lst, i, j)`, which sorts `lst` from `i` to `j`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_147.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_147.py)
 
 ---
 
@@ -2363,7 +2363,7 @@ Given a number of bits `n`, generate a possible gray code for it.
 
 For example, for `n = 2`, one gray code would be `[00, 01, 11, 10]`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_148.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_148.py)
 
 ---
 
@@ -2377,7 +2377,7 @@ For example, given `L = [1, 2, 3, 4, 5]`, `sum(1, 3)` should return `sum([2, 3])
 
 You can assume that you can do some pre-processing. `sum()` should be optimized over the pre-processing step.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_149.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_149.py)
 
 ---
 
@@ -2389,7 +2389,7 @@ Given a list of points, a central point, and an integer k, find the nearest k po
 
 For example, given the list of points `[(0, 0), (5, 4), (3, 1)]`, the central point `(1, 2)`, and `k = 2`, return `[(0, 0), (3, 1)]`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_150.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_150.py)
 
 ---
 
@@ -2413,7 +2413,7 @@ G G G
 B B B
 ```
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_151.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_151.py)
 
 ---
 
@@ -2427,7 +2427,7 @@ For example, given the numbers `[1, 2, 3, 4]` and probabilities `[0.1, 0.5, 0.2,
 
 You can generate random numbers between 0 and 1 uniformly.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_152.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_152.py)
 
 ---
 
@@ -2437,7 +2437,7 @@ Find an efficient algorithm to find the smallest distance (measured in number of
 
 For example, given words "hello", and "world" and a text content of "dog cat hello cat dog dog hello cat world", return 1 because there's only one word "cat" in between the two words.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_153.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_153.py)
 
 ---
 
@@ -2453,7 +2453,7 @@ Recall that a heap has the following operations:
 * `push(item)`, which adds a new key to the heap
 * `pop()`, which removes and returns the max value of the heap
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_154.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_154.py)
 
 ---
 
@@ -2465,7 +2465,7 @@ You can assume that such an element exists.
 
 For example, given `[1, 2, 1, 1, 3, 4, 0]`, return `1`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_155.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_155.py)
 
 ---
 
@@ -2479,7 +2479,7 @@ For example, given n = `13`, return `2` since `13 = 3^2 + 2^2 = 9 + 4`.
 
 Given `n = 27`, return `3` since `27 = 3^2 + 3^2 + 3^2 = 9 + 9 + 9`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_156.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_156.py)
 
 ---
 
@@ -2491,7 +2491,7 @@ Given a string, determine whether any permutation of it is a palindrome.
 
 For example, `carrace` should return `true`, since it can be rearranged to form `racecar`, which is a palindrome. `daily` should return `false`, since there's no rearrangement that can form a palindrome.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_157.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_157.py)
 
 ---
 
@@ -2516,7 +2516,7 @@ Return `2`, as there are only two ways to get to the bottom right:
 
 The top left corner and bottom right corner will always be `0`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_158.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_158.py)
 
 ---
 
@@ -2528,7 +2528,7 @@ Given a string, return the first recurring character in it, or `null` if there i
 
 For example, given the string `"acbbac"`, return `"b"`. Given the string `"abcdef"`, return `null`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_159.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_159.py)
 
 ---
 
@@ -2554,7 +2554,7 @@ and the weights: `a-b: 3`, `a-c: 5`, `a-d: 8`, `d-e: 2`, `d-f: 4`, `e-g: 1`, `e-
 
 The path does not have to pass through the root, and each node can have any amount of children.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_160.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_160.py)
 
 ---
 
@@ -2566,7 +2566,7 @@ Given a 32-bit integer, return the number with its bits reversed.
 
 For example, given the binary number `1111 0000 1111 0000 1111 0000 1111 0000`, return `0000 1111 0000 1111 0000 1111 0000 1111`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_161.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_161.py)
 
 ---
 
@@ -2588,7 +2588,7 @@ Return the list:
 * apr
 * f
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_162.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_162.py)
 
 ---
 
@@ -2604,7 +2604,7 @@ For example, `[15, 7, 1, 1, '+', '-', '/', 3, '*', 2, 1, 1, '+', '+', '-']` shou
 
 You can assume the given expression is always valid.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_163.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_163.py)
 
 ---
 
@@ -2614,7 +2614,7 @@ This Ajith daily promble day was asked by Google.
 
 You are given an array of length n + 1 whose elements belong to the set `{1, 2, ..., n}`. By the pigeonhole principle, there must be a duplicate. Find it in linear time and space.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_164.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_164.py)
 
 ---
 
@@ -2631,7 +2631,7 @@ For example, given the array `[3, 4, 9, 6, 1]`, return `[1, 1, 2, 1, 0]`, since:
 * There is 1 smaller element to the right of `6`
 * There are no smaller elements to the right of `1`
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_165.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_165.py)
 
 ---
 
@@ -2647,7 +2647,7 @@ For example, given the input `[[1, 2], [3], [], [4, 5, 6]]`, calling `next()` re
 
 Do not use flatten or otherwise clone the arrays. Some of the arrays can be empty.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_166.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_166.py)
 
 ---
 
@@ -2659,7 +2659,7 @@ Given a list of words, find all pairs of unique indices such that the concatenat
 
 For example, given the list `["code", "edoc", "da", "d"]`, return `[(0, 1), (1, 0), (2, 3)]`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_167.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_167.py)
 
 ---
 
@@ -2685,7 +2685,7 @@ you should return:
 
 Follow-up: What if you couldn't use any extra space?
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_168.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_168.py)
 
 ---
 
@@ -2697,7 +2697,7 @@ Given a linked list, sort it in `O(n log n)` time and constant space.
 
 For example, the linked list `4 -> 1 -> -3 -> 99` should become `-3 -> 1 -> 4 -> 99`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_169.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_169.py)
 
 ---
 
@@ -2711,7 +2711,7 @@ For example, given `start = "dog"`, `end = "cat"`, and `dictionary = {"dot", "do
 
 Given `start = "dog"`, `end = "cat"`, and `dictionary = {"dot", "tod", "dat", "dar"}`, return null as there is no possible transformation from dog to cat.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_170.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_170.py)
 
 ---
 
@@ -2731,7 +2731,7 @@ This means that 2 people exited the building. timestamp is in Unix time.
 
 Find the busiest period in the building, that is, the time with the most people in the building. Return it as a pair of `(start, end)` timestamps. You can assume the building always starts off and ends up empty, i.e. with 0 people inside.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_171.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_171.py)
 
 ---
 
@@ -2747,7 +2747,7 @@ Given `s = "barfoobazbitbyte"` and `words = ["dog", "cat"]`, return `[]` since t
 
 The order of the indices does not matter.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_172.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_172.py)
 
 ---
 
@@ -2783,7 +2783,7 @@ it should become:
 
 You can assume keys do not contain dots in them, i.e. no clobbering will occur.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_173.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_173.py)
 
 ---
 
@@ -2796,7 +2796,7 @@ Describe and give an example of each of the following types of polymorphism:
 * Parametric polymorphism
 * Subtype polymorphism
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_174.md)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_174.md)
 
 ---
 
@@ -2823,7 +2823,7 @@ For example, given the starting state `a`, number of steps `5000`, and the follo
 ```
 One instance of running this Markov chain might produce `{'a': 3012, 'b': 1656, 'c': 332 }`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_175.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_175.py)
 
 ---
 
@@ -2837,7 +2837,7 @@ For example, given `s1 = abc` and `s2 = bcd`, return `true` since we can map `a`
 
 Given `s1 = foo` and `s2 = bar`, return `false` since the `o` cannot map to two characters.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_176.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_176.py)
 
 ---
 
@@ -2851,7 +2851,7 @@ For example, given the linked list `7 -> 7 -> 3 -> 5` and `k = 2`, it should bec
 
 Given the linked list `1 -> 2 -> 3 -> 4 -> 5` and `k = 3`, it should become `3 -> 4 -> 5 -> 1 -> 2`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_177.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_177.py)
 
 ---
 
@@ -2867,7 +2867,7 @@ The second game: same, except that the stopping condition is a five followed by 
 
 Which of the two games should Alice elect to play? Does it even matter? Write a program to simulate the two games and calculate their expected value.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_178.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_178.py)
 
 ---
 
@@ -2887,7 +2887,7 @@ For example, given the sequence `2, 4, 3, 8, 7, 5`, you should construct the fol
 2   4   8
 ```
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_179.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_179.py)
 
 ---
 
@@ -2903,7 +2903,7 @@ For example, if the stack is `[1, 2, 3, 4, 5]`, it should become `[1, 5, 2, 4, 3
 
 Hint: Try working backwards from the end state.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_180.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_180.py)
 
 ---
 
@@ -2917,7 +2917,7 @@ For example, given the input string `"racecarannakayak"`, return `["racecar", "a
 
 Given the input string `"abc"`, return `["a", "b", "c"]`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_181.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_181.py)
 
 ---
 
@@ -2929,7 +2929,7 @@ A graph is minimally-connected if it is connected and there is no edge that can 
 
 Given an undirected graph, check if the graph is minimally-connected. You can choose to represent the graph as either an adjacency matrix or adjacency list.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_182.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_182.py)
 
 ---
 
@@ -2939,7 +2939,7 @@ This Ajith daily promble day was asked by Twitch.
 
 Describe what happens when you type a URL into your browser and press Enter.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_183.md)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_183.md)
 
 ---
 
@@ -2951,7 +2951,7 @@ Given n numbers, find the greatest common denominator between them.
 
 For example, given the numbers `[42, 56, 14]`, return `14`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_184.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_184.py)
 
 ---
 
@@ -2977,7 +2977,7 @@ and
 ```
 return `6`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_185.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_185.py)
 
 ---
 
@@ -2989,7 +2989,7 @@ Given an array of positive integers, divide the array into two subsets such that
 
 For example, given `[5, 10, 15, 20, 25]`, return the sets `{10, 25}` and `{5, 15, 20}`, which has a difference of `5`, which is the smallest possible difference.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_186.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_186.py)
 
 ---
 
@@ -3017,7 +3017,7 @@ For example, given the following rectangles:
 
 return `true` as the first and third rectangle overlap each other.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_187.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_187.py)
 
 ---
 
@@ -3045,7 +3045,7 @@ for f in functions:
 
 How can we make it print out what we apparently want?
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_188.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_188.py)
 
 ---
 
@@ -3057,7 +3057,7 @@ Given an array of elements, return the length of the longest subarray where all 
 
 For example, given the array `[5, 1, 3, 5, 2, 3, 4, 1]`, return `5` as the longest subarray of distinct elements is `[5, 2, 3, 4, 1]`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_189.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_189.py)
 
 ---
 
@@ -3071,7 +3071,7 @@ For example, given `[8, -1, 3, 4]`, return `15` as we choose the numbers `3`, `4
 
 Given `[-4, 5, 1, 0]`, return `6` as we choose the numbers `5` and `1`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_190.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_190.py)
 
 ---
 
@@ -3087,7 +3087,7 @@ For example, given the intervals `(7, 9), (2, 4), (5, 8)`, return `1` as the las
 
 The intervals are not necessarily sorted in any order.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_191.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_191.py)
 
 ---
 
@@ -3101,7 +3101,7 @@ For example, given the array `[1, 3, 1, 2, 0, 1]`, we can go from indices `0 -> 
 
 Given the array `[1, 2, 1, 0, 0]`, we can't reach the end, so return `false`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_192.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_192.py)
 
 ---
 
@@ -3115,7 +3115,7 @@ You must buy before you can sell the stock, but you can make as many transaction
 
 For example, given `[1, 3, 2, 8, 4, 10]` and `fee = 2`, you should return `9`, since you could buy the stock at `$1`, and sell at `$8`, and then buy it at `$4` and sell it at `$10`. Since we did two transactions, there is a `$4` fee, so we have `7 + 6 = 13` profit minus `$4` of fees.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_193.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_193.py)
 
 ---
 
@@ -3125,7 +3125,7 @@ This Ajith daily promble day was asked by Facebook.
 
 Suppose you are given two lists of n points, one list `p1, p2, ..., pn` on the line `y = 0` and the other list `q1, q2, ..., qn` on the line `y = 1`. Imagine a set of `n` line segments connecting each point `pi` to `qi`. Write an algorithm to determine how many pairs of the line segments intersect.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_194.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_194.py)
 
 ---
 
@@ -3137,7 +3137,7 @@ Let `M` be an `N` by `N` matrix in which every row and every column is sorted. N
 
 Given `i1`, `j1`, `i2`, and `j2`, compute the number of elements of `M` smaller than `M[i1, j1]` and larger than `M[i2, j2]`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_195.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_195.py)
 
 ---
 
@@ -3157,7 +3157,7 @@ For example, given the following tree:
 
 Return `2` as it occurs twice: once as the left leaf, and once as the sum of `2 + 5 - 5.`
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_196.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_196.py)
 
 ---
 
@@ -3167,7 +3167,7 @@ This Ajith daily promble day was asked by Amazon.
 
 Given an array and a number `k` that's smaller than the length of the array, rotate the array to the right `k` elements in-place.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_197.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_197.py)
 
 ---
 
@@ -3180,7 +3180,7 @@ Given a set of distinct positive integers, find the largest subset such that eve
 
 For example, given the set `[3, 5, 10, 20, 21]`, you should return `[5, 10, 20]`. Given `[1, 3, 6, 24]`, return `[1, 3, 6, 24]`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_198.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_198.py)
 
 ---
 
@@ -3192,7 +3192,7 @@ Given a string of parentheses, find the balanced string that can be produced fro
 
 For example, given `"(()"`, you could return `"(())"`. Given `"))()("`, you could return `"()()()()"`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_199.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_199.py)
 
 ---
 
@@ -3204,7 +3204,7 @@ Let `X` be a set of `n` intervals on the real line. We say that a set of points 
 
 For example, given the intervals `[(1, 4), (4, 5), (7, 9), (9, 12)]`, you should return `[4, 9]`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_200.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_200.py)
 
 ---
 
@@ -3224,7 +3224,7 @@ We define a path in the triangle to start at the top and go down one row at a ti
 
 Write a program that returns the weight of the maximum weight path.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_201.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_201.py)
 
 ---
 
@@ -3234,7 +3234,7 @@ This Ajith daily promble day was asked by Palantir.
 
 Write a program that checks whether an integer is a palindrome. For example, `121` is a palindrome, as well as `888`. `678` is not a palindrome. Do not convert the integer into a string.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_202.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_202.py)
 
 ---
 
@@ -3246,7 +3246,7 @@ Suppose an array sorted in ascending order is rotated at some pivot unknown to y
 
 For example, given `[5, 7, 10, 3, 4]`, return `3`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_203.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_203.py)
 
 ---
 
@@ -3256,7 +3256,7 @@ This Ajith daily promble day was asked by Amazon.
 
 Given a complete binary tree, count the number of nodes in faster than `O(n)` time. Recall that a complete binary tree has every level filled except the last, and the nodes in the last level are filled starting from the left.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_204.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_204.py)
 
 ---
 
@@ -3266,7 +3266,7 @@ This Ajith daily promble day was asked by IBM.
 
 Given an integer, find the next permutation of it in absolute order. For example, given `48975`, the next permutation would be `49578`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_205.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_205.py)
 
 ---
 
@@ -3278,7 +3278,7 @@ A permutation can be specified by an array `P`, where `P[i]` represents the loca
 
 Given an array and a permutation, apply the permutation to the array. For example, given the array `["a", "b", "c"]` and the permutation `[2, 1, 0]`, return `["c", "b", "a"]`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_206.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_206.py)
 
 ---
 
@@ -3288,7 +3288,7 @@ This Ajith daily promble day was asked by Dropbox.
 
 Given an undirected graph `G`, check whether it is bipartite. Recall that a graph is bipartite if its vertices can be divided into two independent sets, `U` and `V`, such that no edge connects vertices of the same set.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_207.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_207.py)
 
 ---
 
@@ -3300,7 +3300,7 @@ Given a linked list of numbers and a pivot `k`, partition the linked list so tha
 
 For example, given the linked list `5 -> 1 -> 8 -> 0 -> 3` and `k = 3`, the solution could be `1 -> 0 -> 5 -> 8 -> 3`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_208.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_208.py)
 
 ---
 
@@ -3310,7 +3310,7 @@ This Ajith daily promble day was asked by YouTube.
 
 Write a program that computes the length of the longest common subsequence of three given strings. For example, given "epidemiologist", "refrigeration", and "supercalifragilisticexpialodocious", it should return `5`, since the longest common subsequence is "eieio".
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_209.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_209.py)
 
 ---
 
@@ -3325,7 +3325,7 @@ It is conjectured that every such sequence eventually reaches the number `1`. Te
 
 Bonus: What input `n <= 1000000` gives the longest sequence?
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_210.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_210.py)
 
 ---
 
@@ -3335,7 +3335,7 @@ This Ajith daily promble day was asked by Microsoft.
 
 Given a string and a pattern, find the starting indices of all occurrences of the pattern in the string. For example, given the string "abracadabra" and the pattern "abr", you should return `[0, 7]`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_211.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_211.py)
 
 ---
 
@@ -3347,7 +3347,7 @@ Spreadsheets often use this alphabetical encoding for its columns: "A", "B", "C"
 
 Given a column number, return its alphabetical column id. For example, given `1`, return "A". Given `27`, return "AA".
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_212.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_212.py)
 
 ---
 
@@ -3361,7 +3361,7 @@ IP addresses must follow the format `A.B.C.D`, where `A`, `B`, `C`, and `D` are 
 
 For example, given "2542540123", you should return `['254.25.40.123', '254.254.0.123']`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_213.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_213.py)
 
 ---
 
@@ -3373,7 +3373,7 @@ Given an integer `n`, return the length of the longest consecutive run of `1`s i
 
 For example, given `156`, you should return `3`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_214.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_214.py)
 
 ---
 
@@ -3406,7 +3406,7 @@ For this tree, for example, the bottom view could be `[0, 1, 3, 6, 8, 9]`.
 
 Given the root to a binary tree, return its bottom view.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_215.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_215.py)
 
 ---
 
@@ -3433,7 +3433,7 @@ In addition, note that the Roman numeral system uses subtractive notation for nu
 
 For the input `XIV`, for instance, you should return `14`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_216.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_216.py)
 
 ---
 
@@ -3445,7 +3445,7 @@ We say a number is sparse if there are no adjacent ones in its binary representa
 
 Do this in faster than `O(N log N)` time.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_217.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_217.py)
 
 ---
 
@@ -3455,7 +3455,7 @@ This Ajith daily promble day was asked by Yahoo.
 
 Write an algorithm that computes the reversal of a directed graph. For example, if a graph consists of `A -> B -> C`, it should become `A <- B <- C`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_218.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_218.py)
 
 ---
 
@@ -3467,7 +3467,7 @@ Connect 4 is a game where opponents take turns dropping red or black discs into 
 
 Design and implement Connect 4.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_219.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_219.py)
 
 ---
 
@@ -3481,7 +3481,7 @@ You are asked to play the following game. You and an opponent take turns choosin
 
 Write a program that returns the maximum amount of money you can win with certainty, if you move first, assuming your opponent plays optimally.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_220.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_220.py)
 
 ---
 
@@ -3491,7 +3491,7 @@ This Ajith daily promble day was asked by Zillow.
 
 Let's define a "sevenish" number to be one which is either a power of `7`, or the sum of unique powers of `7`. The first few sevenish numbers are `1, 7, 8, 49`, and so on. Create an algorithm to find the `n`th sevenish number.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_221.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_221.py)
 
 ---
 
@@ -3503,7 +3503,7 @@ Given an absolute pathname that may have `.` or `..` as part of it, return the s
 
 For example, given `/usr/bin/../bin/./scripts/../`, return `/usr/bin/`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_222.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_222.py)
 
 ---
 
@@ -3513,7 +3513,7 @@ This Ajith daily promble day was asked by Palantir.
 
 Typically, an implementation of in-order traversal of a binary tree has `O(h)` space complexity, where `h` is the height of the tree. Write a program to compute the in-order traversal of a binary tree using `O(1)` space.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_223.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_223.py)
 
 ---
 
@@ -3527,7 +3527,7 @@ For example, for the input `[1, 2, 3, 10]`, you should return `7`.
 
 Do this in `O(N)` time.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_224.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_224.py)
 
 ---
 
@@ -3543,7 +3543,7 @@ For example, if `N = 5` and `k = 2`, the order of executions would be `[2, 4, 1,
 
 Bonus: Find an `O(log N)` solution if `k = 2`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_225.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_225.py)
 
 ---
 
@@ -3555,7 +3555,7 @@ You come across a dictionary of sorted words in a language you've never seen bef
 
 For example, given `['xww', 'wxyz', 'wxyw', 'ywx', 'ywz']`, you should return `['x', 'z', 'w', 'y']`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_226.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_226.py)
 
 ---
 
@@ -3565,7 +3565,7 @@ This Ajith daily promble day was asked by Facebook.
 
 Boggle is a game played on a `4 x 4` grid of letters. The goal is to find as many words as possible that can be formed by a sequence of adjacent letters in the grid, using each cell at most once. Given a game board and a dictionary of valid words, implement a Boggle solver.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_227.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_227.py)
 
 ---
 
@@ -3575,7 +3575,7 @@ This Ajith daily promble day was asked by Twitter.
 
 Given a list of numbers, create an algorithm that arranges them in order to form the largest possible integer. For example, given `[10, 7, 76, 415]`, you should return `77641510`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_228.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_228.py)
 
 ---
 
@@ -3594,7 +3594,7 @@ snakes = {16: 6, 48: 26, 49: 11, 56: 53, 62: 19, 64: 60, 87: 24, 93: 73, 95: 75,
 ladders = {1: 38, 4: 14, 9: 31, 21: 42, 28: 84, 36: 44, 51: 67, 71: 91, 80: 100}
 ```
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_229.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_229.py)
 
 ---
 
@@ -3608,7 +3608,7 @@ Write an algorithm that finds the minimum number of trial drops it will take, in
 
 For example, if `N = 1` and `k = 5`, we will need to try dropping the egg at every floor, beginning with the first, until we reach the fifth floor, so our solution will be `5`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_230.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_230.py)
 
 ---
 
@@ -3620,7 +3620,7 @@ Given a string with repeated characters, rearrange the string so that no two adj
 
 For example, given "aaabbc", you could return "ababac". Given "aaab", return None.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_231.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_231.py)
 
 ---
 
@@ -3644,7 +3644,7 @@ mapsum.insert("column", 2)
 assert mapsum.sum("col") == 5
 ```
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_232.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_232.py)
 
 ---
 
@@ -3654,7 +3654,7 @@ This Ajith daily promble day was asked by Apple.
 
 Implement the function `fib(n)`, which returns the nth number in the Fibonacci sequence, using only `O(1)` space.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_233.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_233.py)
 
 ---
 
@@ -3664,7 +3664,7 @@ This Ajith daily promble day was asked by Microsoft.
 
 Recall that the minimum spanning tree is the subset of edges of a tree that connect all its vertices with the smallest possible total edge weight. Given an undirected graph with weighted edges, compute the maximum weight spanning tree.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_234.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_234.py)
 
 ---
 
@@ -3674,7 +3674,7 @@ This Ajith daily promble day was asked by Facebook.
 
 Given an array of numbers of length `N`, find both the minimum and maximum using less than `2 * (N - 2)` comparisons.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_235.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_235.py)
 
 ---
 
@@ -3686,7 +3686,7 @@ You are given a list of N points `(x1, y1), (x2, y2), ..., (xN, yN)` representin
 
 Determine if a new point p lies inside this polygon. (If p is on the boundary of the polygon, you should return False).
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_236.md)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_236.md)
 
 ---
 
@@ -3706,7 +3706,7 @@ A tree is symmetric if its data and shape remain unchanged when it is reflected 
 
 Given a k-ary tree, determine whether it is symmetric.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_237.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_237.py)
 
 ---
 
@@ -3724,7 +3724,7 @@ For this Ajith daily promble day, cards values are counted as follows: each card
 
 Given perfect knowledge of the sequence of cards in the deck, implement a blackjack solver that maximizes the player's score (that is, wins minus losses).
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_238.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_238.py)
 
 ---
 
@@ -3742,7 +3742,7 @@ For example, `4 - 2 - 1 - 7` is a valid pattern, whereas `2 - 1 - 7` is not.
 
 Find the total number of valid unlock patterns of length N, where `1 <= N <= 9`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_239.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_239.py)
 
 ---
 
@@ -3753,7 +3753,7 @@ This Ajith daily promble day was asked by Spotify.
 There are `N` couples sitting in a row of length `2 * N`. They are currently ordered randomly, but would like to rearrange themselves so that each couple's partners can sit side by side.
 What is the minimum number of swaps necessary for this to happen?
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_240.md)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_240.md)
 
 ---
 
@@ -3769,7 +3769,7 @@ For example, suppose `N = 5`, and the respective citations of each paper are `[4
 
 Given a list of paper citations of a researcher, calculate their h-index.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_241.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_241.py)
 
 ---
 
@@ -3782,7 +3782,7 @@ You are given an array of length 24, where each element represents the number of
 * `query(start: int, end: int)`: Retrieve the number of subscribers that have signed up between start and end (inclusive).
 You can assume that all values get cleared at the end of the day, and that you will not be asked for start and end values that wrap around midnight.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_242.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_242.py)
 
 ---
 
@@ -3794,7 +3794,7 @@ Given an array of numbers `N` and an integer `k`, your task is to split `N` into
 
 For example, given `N = [5, 1, 2, 7, 3, 4]` and `k = 3`, you should return `8`, since the optimal partition is `[5, 1, 2], [7], [3, 4]`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_243.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_243.py)
 
 ---
 
@@ -3810,7 +3810,7 @@ Implement this algorithm.
 
 Bonus: Create a generator that produces primes indefinitely (that is, without taking `N` as an input).
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_244.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_244.py)
 
 ---
 
@@ -3822,7 +3822,7 @@ You are given an array of integers, where each element represents the maximum nu
 
 For example, given `[6, 2, 4, 0, 5, 1, 1, 4, 2, 9]`, you should return `2`, as the optimal solution involves jumping from `6` to `5`, and then from `5` to `9`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_245.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_245.py)
 
 ---
 
@@ -3834,7 +3834,7 @@ Given a list of words, determine whether the words can be chained to form a circ
 
 For example, the words `['chair', 'height', 'racket', 'touch', 'tunic']` can form the following circle: `chair -> racket -> touch -> height -> tunic -> chair`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_246.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_246.py)
 
 ---
 
@@ -3844,7 +3844,7 @@ This Ajith daily promble day was asked by PayPal.
 
 Given a binary tree, determine whether or not it is height-balanced. A height-balanced binary tree can be defined as one in which the heights of the two subtrees of any node never differ by more than one.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_247.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_247.py)
 
 ---
 
@@ -3854,7 +3854,7 @@ This Ajith daily promble day was asked by Nvidia.
 
 Find the maximum of two numbers without using any if-else statements, branching, or direct comparisons.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_248.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_248.py)
 
 ---
 
@@ -3864,7 +3864,7 @@ This Ajith daily promble day was asked by Salesforce.
 
 Given an array of integers, find the maximum XOR of any two elements.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_249.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_249.py)
 
 ---
 
@@ -3888,7 +3888,7 @@ may have the solution:
 
 Given a three-word puzzle like the one above, create an algorithm that finds a solution.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_250.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_250.py)
 
 ---
 
@@ -3898,7 +3898,7 @@ This Ajith daily promble day was asked by Amazon.
 
 Given an array of a million integers between zero and a billion, out of order, how can you efficiently sort it? Assume that you cannot store an array of a billion elements in memory.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_251.md)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_251.md)
 
 ---
 
@@ -3910,7 +3910,7 @@ The ancient Egyptians used to express fractions as a sum of several terms where 
 
 Create an algorithm to turn an ordinary fraction `a / b`, where `a < b`, into an Egyptian fraction.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_252.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_252.py)
 
 ---
 
@@ -3929,7 +3929,7 @@ t     a     g
    s     g
 ```
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_253.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_253.py)
 
 ---
 
@@ -3960,7 +3960,7 @@ f         e
         /   \
        g     h
 ```
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_254.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_254.py)
 
 ---
 
@@ -3990,7 +3990,7 @@ The transitive closure of this graph would be:
 
 Given a graph, find its transitive closure.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_255.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_255.py)
 
 ---
 
@@ -4000,7 +4000,7 @@ This Ajith daily promble day was asked by Fitbit.
 
 Given a linked list, rearrange the node values such that they appear in alternating `low -> high -> low -> high` ... form. For example, given `1 -> 2 -> 3 -> 4 -> 5`, you should return `1 -> 3 -> 2 -> 5 -> 4`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_256.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_256.py)
 
 ---
 
@@ -4010,7 +4010,7 @@ This Ajith daily promble day was asked by WhatsApp.
 
 Given an array of integers out of order, determine the bounds of the smallest window that must be sorted in order for the entire array to be sorted. For example, given `[3, 7, 5, 6, 9]`, you should return `(1, 3)`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_257.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_257.py)
 
 ---
 
@@ -4034,7 +4034,7 @@ For example, given the following tree:
 
 You should return `[1, 3, 2, 4, 5, 6, 7]`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_258.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_258.py)
 
 ---
 
@@ -4056,7 +4056,7 @@ Given a dictionary of words, determine the letters the first player should start
 
 For example, if the dictionary is `["cat", "calf", "dog", "bear"]`, the only winning start letter would be b.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_259.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_259.py)
 
 ---
 
@@ -4066,7 +4066,7 @@ This Ajith daily promble day was asked by Pinterest.
 
 The sequence `[0, 1, ..., N]` has been jumbled, and the only clue you have for its order is an array representing whether each number is larger or smaller than the last. Given this information, reconstruct an array that is consistent with it. For example, given `[None, +, +, -, +]`, you could return `[1, 2, 3, 0, 4]`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_260.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_260.py)
 
 ---
 
@@ -4091,7 +4091,7 @@ With this encoding, cats would be represented as `0000110111`.
 
 Given a dictionary of character frequencies, build a Huffman tree, and use it to determine a mapping between characters and their encoded binary strings.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_261.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_261.py)
 
 ---
 
@@ -4101,7 +4101,7 @@ This Ajith daily promble day was asked by Mozilla.
 
 A bridge in a connected (undirected) graph is an edge that, if removed, causes the graph to become disconnected. Find all the bridges in a graph.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_262.md)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_262.md)
 
 ---
 
@@ -4117,7 +4117,7 @@ We can consider a sentence valid if it conforms to the following rules:
 * There must be a single space between each word.
 * The sentence must end with a terminal mark immediately following a word.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_263.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_263.py)
 
 ---
 
@@ -4131,7 +4131,7 @@ For example, suppose `C = {0, 1}` and `k = 3`. Then our sequence should contain 
 
 Create an algorithm that finds a De Bruijn sequence.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_264.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_264.py)
 
 ---
 
@@ -4145,7 +4145,7 @@ Given an array representing a line of seats of employees at MegaCorp, determine 
 
 For example, given `[10, 40, 200, 1000, 60, 30]`, you should return `[1, 2, 3, 4, 2, 1]`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_265.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_265.py)
 
 ---
 
@@ -4157,7 +4157,7 @@ A step word is formed by taking a given word, adding a letter, and anagramming t
 
 Given a dictionary of words and an input word, create a function that returns all valid step words.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_266.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_266.py)
 
 ---
 
@@ -4184,7 +4184,7 @@ For example, given the following matrix:
 
 You should return `True`, since the bishop is attacking the king diagonally.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_267.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_267.py)
 
 ---
 
@@ -4194,7 +4194,7 @@ This Ajith daily promble day was asked by Indeed.
 
 Given a 32-bit positive integer `N`, determine whether it is a power of four in faster than `O(log N)` time.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_268.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_268.py)
 
 ---
 
@@ -4213,7 +4213,7 @@ For example, given the string `.L.R....L`, you should return `LL.RRRLLL`.
 
 Given the string `..R...L.L`, you should return `..RR.LLLL`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_269.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_269.py)
 
 ---
 
@@ -4241,7 +4241,7 @@ edges = [
 
 You should return `9`, because propagating the message from `0 -> 2 -> 3 -> 4` will take that much time.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_270.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_270.py)
 
 ---
 
@@ -4253,7 +4253,7 @@ Given a sorted list of integers of length `N`, determine if an element `x` is in
 
 Do this in `O(log N)` time.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_271.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_271.py)
 
 ---
 
@@ -4265,7 +4265,7 @@ Write a function, `throw_dice(N, faces, total)`, that determines how many ways i
 
 For example, `throw_dice(3, 6, 7)` should equal `15`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_272.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_272.py)
 
 ---
 
@@ -4277,7 +4277,7 @@ A fixed point in an array is an element whose value is equal to its index. Given
 
 For example, given `[-6, 0, 2, 40]`, you should return `2`. Given `[1, 5, 7, 8]`, you should return `False`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_273.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_273.py)
 
 ---
 
@@ -4291,7 +4291,7 @@ Don't use eval or a similar built-in parser.
 
 For example, given `'-1 + (2 + 3)'`, you should return `4`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_274.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_274.py)
 
 ---
 
@@ -4313,7 +4313,7 @@ As an example, the fourth term is `1211`, since the third term consists of one `
 
 Given an integer `N`, print the `Nth` term of this sequence.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_275.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_275.py)
 
 ---
 
@@ -4327,7 +4327,7 @@ That is, given a string of length `N` and a pattern of length `k`, write a progr
 
 If the pattern is found, return the start index of its location. If not, return `False`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_276.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_276.py)
 
 ---
 
@@ -4353,7 +4353,7 @@ Visually, this can be represented as follows.
 
 Write a program that takes in an array of integers representing byte values, and returns whether it is a valid UTF-8 encoding.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_277.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_277.py)
 
 ---
 
@@ -4363,7 +4363,7 @@ This Ajith daily promble day was asked by Amazon.
 
 Given an integer `N`, construct all possible binary search trees with `N` nodes.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_278.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_278.py)
 
 ---
 
@@ -4388,7 +4388,7 @@ Each student can be placed in a friend group, which can be defined as the transi
 
 Given a friendship list such as the one above, determine the number of friend groups in the class.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_279.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_279.py)
 
 ---
 
@@ -4398,7 +4398,7 @@ This Ajith daily promble day was asked by Pandora.
 
 Given an undirected graph, determine if it contains a cycle.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_280.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_280.py)
 
 ---
 
@@ -4423,7 +4423,7 @@ The best we can we do here is to draw a line after the eighth brick, which will 
 
 Given an input consisting of brick lengths for each row such as the one above, return the fewest number of bricks that must be cut to create a vertical line.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_281.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_281.py)
 
 ---
 
@@ -4433,7 +4433,7 @@ This Ajith daily promble day was asked by Netflix.
 
 Given an array of integers, determine whether it contains a Pythagorean triplet. Recall that a Pythogorean triplet `(a, b, c)` is defined by the equation `a^2 + b^2 = c^2`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_282.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_282.py)
 
 ---
 
@@ -4447,7 +4447,7 @@ These numbers have had many applications, from helping ancient Babylonians keep 
 
 Given an integer `N`, write a program that returns, in order, the first `N` regular numbers.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_283.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_283.py)
 
 ---
 
@@ -4467,7 +4467,7 @@ Two nodes in a binary tree can be called cousins if they are on the same level o
 
 Given a binary tree and a particular node, find all cousins of that node.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_284.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_284.py)
 
 ---
 
@@ -4481,7 +4481,7 @@ For example, given the array `[3, 7, 8, 3, 6, 1]`, you should return `3`, since 
 
 Can you do this using just one forward pass through the array?
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_285.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_285.py)
 
 ---
 
@@ -4507,7 +4507,7 @@ For example, suppose the input consists of the buildings `[(0, 15, 3), (4, 11, 5
 
 As a result, your function should return `[(0, 3), (4, 5), (11, 3), (15, 0), (19, 4), (23, 0)]`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_286.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_286.py)
 
 ---
 
@@ -4529,7 +4529,7 @@ For example, suppose `k = 1`, and the list of tuples is:
 
 Then a reasonable similarity metric would most likely conclude that `a` and `e` are the most similar, so your program should return `[('a', 'e')]`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_287.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_287.py)
 
 ---
 
@@ -4551,7 +4551,7 @@ For example, this algorithm terminates in three steps when starting from `1234`:
 
 Write a function that returns how many steps this will take for a given input `N`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_288.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_288.py)
 
 ---
 
@@ -4574,7 +4574,7 @@ In other words, to start, the first player takes three items from pile `B`. The 
 
 Given a list of non-zero starting values `[a, b, c]`, and assuming optimal play, determine whether the first player has a forced win.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_289.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_289.py)
 
 ---
 
@@ -4598,7 +4598,7 @@ For example, given the input `['R', 'G', 'B', 'G', 'B']`, it is possible to end 
 ['R']                     |
 ```
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_290.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_290.py)
 
 ---
 
@@ -4610,7 +4610,7 @@ An imminent hurricane threatens the coastal town of Codeville. If at most two pe
 
 For example, given a population with weights `[100, 200, 150, 80]` and a boat limit of `200`, the smallest number of boats required will be three.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_291.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_291.py)
 
 ---
 
@@ -4646,7 +4646,7 @@ students = {
 }
 ```
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_292.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_292.py)
 
 ---
 
@@ -4660,7 +4660,7 @@ You can change the height of any stone by paying a cost of `1` unit to lower its
 
 For example, given the stones `[1, 1, 3, 3, 2, 1]`, the optimal solution is to pay 2 to create `[0, 1, 2, 3, 2, 1]`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_293.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_293.py)
 
 ---
 
@@ -4689,7 +4689,7 @@ paths = {
 
 In this case, the shortest valid path would be `0 -> 2 -> 4 -> 0`, with a distance of `28`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_294.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_294.py)
 
 ---
 
@@ -4714,7 +4714,7 @@ Given an input `k`, return the `k`th row of Pascal's triangle.
 
 Bonus: Can you do this using only `O(k)` space?
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_295.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_295.py)
 
 ---
 
@@ -4724,7 +4724,7 @@ This Ajith daily promble day was asked by Etsy.
 
 Given a sorted array, convert it into a height-balanced binary search tree.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_296.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_296.py)
 
 ---
 
@@ -4748,7 +4748,7 @@ A lazy bartender working at this bar is trying to reduce his effort by limiting 
 
 For the input above, the answer would be `2`, as drinks `1` and `5` will satisfy everyone.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_297.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_297.py)
 
 ---
 
@@ -4762,7 +4762,7 @@ Given an input describing the types of apples she will pass on her path, in orde
 
 For example, given the input `[2, 1, 2, 3, 3, 1, 3, 5]`, the longest portion will involve types `1` and `3`, with a length of four.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_298.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_298.py)
 
 ---
 
@@ -4788,7 +4788,7 @@ pipes = {
 }
 ```
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_299.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_299.py)
 
 ---
 
@@ -4798,7 +4798,7 @@ This Ajith daily promble day was asked by Uber.
 
 On election day, a voting machine writes data in the form `(voter_id, candidate_id)` to a text file. Write a program that reads this file as a stream and returns the top 3 candidates at any given time. If you find a voter voting more than once, report this as fraud.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_300.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_300.py)
 
 ---
 
@@ -4812,7 +4812,7 @@ Implement a data structure which carries out the following operations without re
 
 The check method may return occasional false positives (in other words, incorrectly identifying an element as part of the set), but should always correctly identify a true element.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_301.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_301.py)
 
 ---
 
@@ -4831,7 +4831,7 @@ For example, suppose the input for a three-by-six grid is the following:
 
 Considering the edges of the matrix as boundaries, this divides the grid into three triangles, so you should return `3`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_302.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_302.py)
 
 ---
 
@@ -4843,7 +4843,7 @@ Given a clock time in `hh:mm` format, determine, to the nearest degree, the angl
 
 Bonus: When, during the course of a day, will the angle be zero?
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_303.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_303.py)
 
 ---
 
@@ -4855,7 +4855,7 @@ A knight is placed on a given square on an `8 x 8` chessboard. It is then moved 
 
 After `k` moves, what is the probability that the knight remains on the board?
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_304.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_304.py)
 
 ---
 
@@ -4867,7 +4867,7 @@ Given a linked list, remove all consecutive nodes that sum to zero. Print out th
 
 For example, suppose you are given the input `3 -> 4 -> -7 -> 5 -> -6 -> 6`. In this case, you should first remove `3 -> 4 -> -7`, then `-6 -> 6`, leaving only `5`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_305.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_305.py)
 
 ---
 
@@ -4879,7 +4879,7 @@ You are given a list of N numbers, in which each number is located at most k pla
 
 Come up with an algorithm that sorts this list in `O(N log k)` time.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_306.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_306.py)
 
 ---
 
@@ -4891,7 +4891,7 @@ Given a binary search tree, find the floor and ceiling of a given integer. The f
 
 If either value does not exist, return None.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_307.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_307.py)
 
 ---
 
@@ -4907,7 +4907,7 @@ Determine the number of ways to group the array elements using parentheses so th
 
 For example, suppose the input is `['F', '|', 'T', '&', 'T']`. In this case, there are two acceptable groupings: `(F | T) & T` and `F | (T & T)`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_308.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_308.py)
 
 ---
 
@@ -4921,7 +4921,7 @@ For example, suppose you are faced with an input of `[0, 1, 1, 0, 1, 0, 0, 0, 1]
 
 Given an input such as the one above, return the lowest possible cost of moving people to remove all gaps.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_309.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_309.py)
 
 ---
 
@@ -4931,7 +4931,7 @@ This Ajith daily promble day was asked by Pivotal.
 
 Write an algorithm that finds the total number of set bits in all integers between `1` and `N`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_310.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_310.py)
 
 ---
 
@@ -4943,7 +4943,7 @@ Given an unsorted array, in which all elements are distinct, find a "peak" eleme
 
 An element is considered a peak if it is greater than both its left and right neighbors. It is guaranteed that the first and last elements are lower than all others.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_311.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_311.py)
 
 ---
 
@@ -4964,7 +4964,7 @@ A B C C
 
 Given an integer N, determine in how many ways this task is possible.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_312.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_312.py)
 
 ---
 
@@ -4978,7 +4978,7 @@ In addition, the lock has a certain number of "dead ends", meaning that if you t
 
 Let us consider a "move" to be a rotation of a single wheel by one digit, in either direction. Given a lock initially set to `000`, a target combination, and a list of dead ends, write a function that returns the minimum number of moves required to reach the target state, or `None` if this is impossible.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_313.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_313.py)
 
 ---
 
@@ -4992,7 +4992,7 @@ Given a list of `N` listeners, and a list of `M` radio towers, each placed at va
 
 For example, suppose `listeners = [1, 5, 11, 20]`, and `towers = [4, 8, 15]`. In this case the minimum range would be `5`, since that would be required for the tower at position `15` to reach the listener at position `20`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_314.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_314.py)
 
 ---
 
@@ -5012,7 +5012,7 @@ Here is an example:
 
 Write a program to determine whether a given input is a Toeplitz matrix.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_315.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_315.py)
 
 ---
 
@@ -5024,7 +5024,7 @@ You are given an array of length `N`, where each element `i` represents the numb
 
 Given such an array, determine the denominations that must be in use. In the case above, for example, there must be coins with value `2`, `3`, and `4`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_316.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_316.py)
 
 ---
 
@@ -5034,7 +5034,7 @@ This Ajith daily promble day was asked by Yahoo.
 
 Write a function that returns the bitwise `AND` of all integers between `M` and `N`, inclusive.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_317.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_317.py)
 
 ---
 
@@ -5046,7 +5046,7 @@ You are going on a road trip, and would like to create a suitable music playlist
 
 Given `N`, `M`, and `B`, determine the number of valid playlists.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_318.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_318.py)
 
 ---
 
@@ -5058,7 +5058,7 @@ An 8-puzzle is a game played on a `3 x 3` board of tiles, with the ninth tile mi
 
 Design a class to represent the board, and find a series of steps to bring the board to the state `[[1, 2, 3], [4, 5, 6], [7, 8, None]]`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_319.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_319.py)
 
 ---
 
@@ -5070,7 +5070,7 @@ Given a string, find the length of the smallest window that contains every disti
 
 For example, given "jiujitsu", you should return 5, corresponding to the final five letters.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_320.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_320.py)
 
 ---
 
@@ -5086,7 +5086,7 @@ There are two kinds of permitted steps:
 
 For example, given `100`, you can reach `1` in five steps with the following route: `100 -> 10 -> 9 -> 3 -> 2 -> 1`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_321.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_321.py)
 
 ---
 
@@ -5100,7 +5100,7 @@ On the `i`th jump, you may move exactly `i` places to the left or right.
 
 Find a path with the fewest number of jumps required to get from `0` to `N`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_322.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_322.py)
 
 ---
 
@@ -5112,7 +5112,7 @@ Create an algorithm to efficiently compute the approximate median of a list of n
 
 More precisely, given an unordered list of `N` numbers, find an element whose rank is between `N / 4` and `3 * N / 4`, with a high level of certainty, in less than `O(N)` time.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_323.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_323.py)
 
 ---
 
@@ -5126,7 +5126,7 @@ Each move consists of moving one mouse one unit to the left or right, and only o
 
 For example, suppose the mice are positioned at `[1, 4, 9, 15]`, and the holes are located at `[10, -5, 0, 16]`. In this case, the best pairing would require us to send the mouse at `1` to the hole at `-5`, so our function should return `6`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_324.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_324.py)
 
 ---
 
@@ -5138,7 +5138,7 @@ The United States uses the imperial system of weights and measures, which means 
 
 Create a data structure that can efficiently convert a certain quantity of one unit to the correct amount of any other unit. You should also allow for additional units to be added to the system.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_325.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_325.py)
 
 ---
 
@@ -5162,7 +5162,7 @@ For example, given the sequence `[3, 2, 6, 1, 9]`, the resulting Cartesian tree 
 
 Given a sequence S, construct the corresponding Cartesian tree.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_326.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_326.py)
 
 ---
 
@@ -5174,7 +5174,7 @@ Write a program to merge two binary trees. Each node in the new tree should hold
 
 If only one input tree has a node in a given position, the corresponding node in the new tree should match that input node.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_327.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_327.py)
 
 ---
 
@@ -5188,7 +5188,7 @@ A simplified description of the Elo system is as follows. Every player begins at
 
 Implement this system.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_328.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_328.py)
 
 ---
 
@@ -5217,7 +5217,7 @@ gal_preferences = {
 
 Write an algorithm that pairs the men and women together in such a way that no two people of opposite sex would both rather be with each other than with their current partners.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_329.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_329.py)
 
 ---
 
@@ -5239,7 +5239,7 @@ This type of formula, with AND statements joining tuples containing exactly one 
 
 Given a 2-CNF formula, find a way to assign truth values to satisfy it, or return `False` if this is impossible.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_330.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_330.py)
 
 ---
 
@@ -5251,7 +5251,7 @@ You are given a string consisting of the letters `x` and `y`, such as `xyxxxyxyy
 
 Determine how many times you would need to apply this operation to ensure that all `x`'s come before all `y`'s. In the preceding example, it suffices to flip the second and sixth characters, so you should return `2`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_331.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_331.py)
 
 ---
 
@@ -5266,7 +5266,7 @@ a + b = M
 a XOR b = N
 ```
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_332.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_332.py)
 
 ---
 
@@ -5278,7 +5278,7 @@ At a party, there is a single person who everyone knows, but who does not know a
 
 Given a list of `N` people and the above operation, find a way to identify the celebrity in `O(N)` time.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_333.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_333.py)
 
 ---
 
@@ -5292,7 +5292,7 @@ For example, given the input `[5, 2, 7, 8]`, you should return True, since `(5 *
 
 Write a function that plays the `24` game.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_334.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_334.py)
 
 ---
 
@@ -5312,7 +5312,7 @@ Here, `Sx, Sy, ..., Sz` denote the scores of all the other sites that have outgo
 
 Given a directed graph of links between various websites, write a program that calculates each site's page rank.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_335.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_335.py)
 
 ---
 
@@ -5330,7 +5330,7 @@ For example, if `N = 3`, and our integers are `[1, 2, 3]`, there are two ways, s
 1   2  2   1
 ```
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_336.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_336.py)
 
 ---
 
@@ -5340,7 +5340,7 @@ This Ajith daily promble day was asked by Apple.
 
 Given a linked list, uniformly shuffle the nodes. What if we want to prioritize space over time?
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_337.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_337.py)
 
 ---
 
@@ -5350,7 +5350,7 @@ This Ajith daily promble day was asked by Facebook.
 
 Given an integer `n`, find the next biggest integer with the same number of `1`-bits on. For example, given the number `6` (`0110` in binary), return `9` (`1001`).
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_338.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_338.py)
 
 ---
 
@@ -5360,7 +5360,7 @@ This Ajith daily promble day was asked by Microsoft.
 
 Given an array of numbers and a number `k`, determine if there are three entries in the array which add up to the specified number `k`. For example, given `[20, 303, 3, 4, 25]` and `k = 49`, return true as `20 + 4 + 25 = 49`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_339.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_339.py)
 
 ---
 
@@ -5370,7 +5370,7 @@ This Ajith daily promble day was asked by Google.
 
 Given a set of points `(x, y)` on a 2D cartesian plane, find the two closest points. For example, given the points `[(1, 1), (-1, -1), (3, 4), (6, 1), (-1, -6), (-4, -3)]`, return `[(-1, -1), (1, 1)]`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_340.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_340.py)
 
 ---
 
@@ -5400,7 +5400,7 @@ and matrix:
 
 Your function should return 3, since we can make the words 'eat', 'in', and 'rat' without them touching each other. We could have alternatively made 'eat' and 'rain', but that would be incorrect since that's only 2 words.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_341.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_341.py)
 
 ---
 
@@ -5424,7 +5424,7 @@ This should call add on the initial value with the first element of the array, a
 
 Implement your own version of reduce.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_342.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_342.py)
 
 ---
 
@@ -5445,7 +5445,7 @@ For example, given the following tree:
 
 and the range `[4, 9]`, return `23 (5 + 4 + 6 + 8)`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_343.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_343.py)
 
 ---
 
@@ -5470,7 +5470,7 @@ In this case, removing the edge `(3, 4)` satisfies our requirement.
 
 Write a function that returns the maximum number of edges you can remove while still satisfying this requirement.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_344.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_344.py)
 
 ---
 
@@ -5488,7 +5488,7 @@ Note that the synonyms `(a, b)` and `(a, c)` do not necessarily imply `(b, c)`: 
 
 Follow-up: what if we can assume that `(a, b)` and `(a, c)` do in fact imply `(b, c)`?
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_345.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_345.py)
 
 ---
 
@@ -5516,7 +5516,7 @@ For example, our traveler wants to go from JFK to LAX with up to 3 connections, 
 
 Due to some improbably low flight prices, the cheapest itinerary would be JFK -> ATL -> ORD -> LAX, costing $440.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_346.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_346.py)
 
 ---
 
@@ -5530,7 +5530,7 @@ Write a program to determine the lexicographically smallest string that can be c
 
 For example, suppose we are given the string `daily` and `k = 1`. The best we can create in this case is `ailyd`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_347.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_347.py)
 
 ---
 
@@ -5558,7 +5558,7 @@ For instance, since code is the first word inserted in the tree, and `cob` lexic
 
 Implement insertion and search functions for a ternary search tree.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_348.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_348.py)
 
 ---
 
@@ -5589,7 +5589,7 @@ Using this scheme, `Jackson` and `Jaxen` both map to `J250`.
 
 Implement Soundex.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_349.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_349.py)
 
 ---
 
@@ -5604,7 +5604,7 @@ Here are a few examples:
 - Given `N = 17`, return `2` `(16 + 1)`
 - Given `N = 18`, return `2` `(9 + 9)`
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_350.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_350.py)
 
 ---
 
@@ -5625,7 +5625,7 @@ Suppose you are given a list of meanings for several words, formatted like so:
 
 Given a sentence, most of whose words are contained in the meaning list above, create an algorithm that determines the likely sense of each possibly ambiguous word.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_351.md)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_351.md)
 
 ---
 
@@ -5641,7 +5641,7 @@ A typical American-style crossword puzzle grid is an `N x N` matrix with black a
 The grid is rotationally symmetric (for example, the colors of the top left and bottom right squares must match).
 Write a program to determine whether a given matrix qualifies as a crossword grid.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_352.md)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_352.md)
 
 ---
 
@@ -5661,7 +5661,7 @@ x x x x
 
 Determine the area of the largest rectangle that can be formed only from the bars of the histogram. For the diagram above, for example, this would be six, representing the `2 x 3` area at the bottom right.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_353.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_353.py)
 
 ---
 
@@ -5679,7 +5679,7 @@ Some questions you may want to consider as part of your solution are:
 - How will you deal with your client machines being blacklisted?
 - How can you update your database when Wikipedia pages are added or updated?
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_354.md)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_354.md)
 
 ---
 
@@ -5695,7 +5695,7 @@ Write an algorithm that finds an appropriate `Y` array with the following proper
 
 For example, suppose your input is `[1.3, 2.3, 4.4]`. In this case you cannot do better than `[1, 2, 5]`, which has an absolute difference of `|1.3 - 1| + |2.3 - 2| + |4.4 - 5| = 1`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_355.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_355.py)
 
 ---
 
@@ -5707,7 +5707,7 @@ Implement a queue using a set of fixed-length arrays.
 
 The queue should support `enqueue`, `dequeue`, and `get_size` operations.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_356.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_356.py)
 
 ---
 
@@ -5726,7 +5726,7 @@ Here are a few examples:
 
 Given this representation, determine the depth of the tree.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_357.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_357.py)
 
 ---
 
@@ -5740,7 +5740,7 @@ Create a data structure that performs all the following operations in `O(1)` tim
 - `get_max`: Return a key with the highest value.
 - `get_min`: Return a key with the lowest value.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_358.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_358.py)
 
 ---
 
@@ -5754,7 +5754,7 @@ For example, the input could be 'niesevehrtfeev', which is an anagram of 'threef
 
 Given this string, return the original integers in sorted order. In the example above, this would be `357`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_359.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_359.py)
 
 ---
 
@@ -5768,7 +5768,7 @@ Given a set of these ranked lists, interleave them to create a playlist that sat
 
 For example, suppose your input is `{[1, 7, 3], [2, 1, 6, 7, 9], [3, 9, 5]}`. In this case a satisfactory playlist could be `[2, 1, 6, 7, 3, 9, 5]`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_360.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_360.py)
 
 ---
 
@@ -5788,7 +5788,7 @@ For example, for the following scores you should return `True`, since they corre
 However, it is impossible for any key to result in the following scores, so in this case you should return `False`:
 `{123456: 4, 345678: 4, 567890: 4}`
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_361.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_001.py)
 
 ---
 
@@ -5800,7 +5800,7 @@ A strobogrammatic number is a positive number that appears the same after being 
 
 Create a program that finds all strobogrammatic numbers with N digits.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_362.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_362.py)
 
 ---
 
@@ -5814,7 +5814,7 @@ add_subtract(1)(2)(3) -> 1 + 2 - 3 -> 0
 add_subtract(-5)(10)(3)(9) -> -5 + 10 - 3 + 9 -> 11
 ```
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_363.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_363.py)
 
 ---
 
@@ -5824,7 +5824,7 @@ This Ajith daily promble day was asked by Facebook.
 
 Describe an algorithm to compute the longest increasing subsequence of an array of numbers in `O(n log n)` time.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_364.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_364.py)
 
 ---
 
@@ -5839,6 +5839,6 @@ A quack is a data structure combining properties of both stacks and queues. It c
 
 Implement a quack using three stacks and `O(1)` additional memory, so that the amortized time for any push, pop, or pull operation is `O(1)`.
 
-[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith daily promble day_365.py)
+[Solution](https://github.com/ajithkumarB/Algo_DataStructure_Python/blob/master/Ajith%20daily%20promble%20day_365.py)
 
 ---
